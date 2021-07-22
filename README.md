@@ -1,5 +1,5 @@
 # quiz
-#You can see the application from below link
+#You can see the application from this link :
 https://erdincyasan.github.io/static-quizapp/
 
 
